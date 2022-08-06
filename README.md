@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ʜᴇʀᴏᴋᴜ ✘ ᴅᴇᴘʟᴏʏᴇʀ 」── 
+    ──「 TEDZO ✘ sir 」── 
 </h2><p align="center">
 
   
@@ -14,4 +14,4 @@
 
 ## ᴅᴇᴍᴏ ᴡᴇʙ  💝
 
-[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://xmalitha.github.io/Heroku-Deployer/) 
+[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://xmalitha.TEDZO555.io/Heroku-Deployer/) 
