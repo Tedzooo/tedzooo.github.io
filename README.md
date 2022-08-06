@@ -25,3 +25,5 @@
               <svg class="icon"><use xlink:href="#icon-link"></use></svg>
           </span>
         </a>
+
+[TEDZO](https://tedzo555.github.io/TEDZO123/herokud)
