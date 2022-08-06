@@ -4,7 +4,7 @@
 
   
 <p align="center">
-  <img src="https://Tedzo555.github.io/Heroku%20Deployer/xxx.jpg"
+  <img src="https://Tedzo555.github.io/heroku%20deployer/xxx.jpg"
 " >
 </p>
 
@@ -14,4 +14,4 @@
 
 ## ᴅᴇᴍᴏ ᴡᴇʙ  💝
 
-[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://xmalitha.Tedzo555.io/Heroku%20Deployer/) 
+[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://tedzo555.Tedzo555.io/heroku%20deployer/) 
