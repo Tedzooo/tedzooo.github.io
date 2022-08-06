@@ -4,7 +4,7 @@
 
   
 <p align="center">
-  <img src="https://github.com/Tedzo555/TEDZO123/herokud/xxx.jpg"
+  <img src="https://github.com/Tedzo555/tedzo555.github.io/xxx.jpg"
 " >
 </p>
 
