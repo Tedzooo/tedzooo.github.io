@@ -9,4 +9,4 @@
 
 ## ᴅᴇᴍᴏ ᴡᴇʙ  💝
 
-[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://xmalitha.github.io/Logo-Generator/)
+[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://tedzo555.github.io/TEDZO123/logogen/)
