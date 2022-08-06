@@ -8,6 +8,11 @@
 " >
 </p>
 
+<a href="https://tedzo555.github.io/mgfdddddysysys/" class="profile-card-social__item link" target="_blank">
+          <span class="icon-font">
+              <svg class="icon"><use xlink:href="#icon-link"></use></svg>
+          </span>
+        </a>
 
 
 <br><br>
