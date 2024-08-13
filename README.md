@@ -7,7 +7,7 @@
   <img src="https://github.com/Tedzo555/tedzo555.github.io/xxx.jpg"
 " >
 </p>
-
+https://tedzooo.github.io/tedzo.io/
 <a href="https://tedzo555.github.io/TEDZO123/" class="profile-card-social__item link" target="_blank">
           <span class="icon-font">
               <svg class="icon"><use xlink:href="#icon-link"></use></svg>
